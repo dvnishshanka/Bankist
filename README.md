@@ -1,4 +1,4 @@
-# Bankist
+# Bankist :bank:
 The Bankist is a fictional banking application built for practicing JavaScript concepts. It serves as a simplified demonstration of banking functionalities, including account balances, transfers, loans, and user authentication.
 
 Bankist has below features:
@@ -15,7 +15,7 @@ This website is built using the JavaScript programming language and is hosted on
  <img src="Screenshots/2.jpg" width="950">
 </div>
  
- **Instructions**
+ **:bulb:Instructions**
  
 To access the website, you can use the following login credentials: 
 * username: js, pin: 1111
