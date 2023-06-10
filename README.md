@@ -11,8 +11,8 @@ Bankist has below features:
 This website is built using the JavaScript programming language and is hosted on the Cloudflare platform.
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
- <img src="screenshots/1.jpg" width="750">
- <img src="screenshots/2.jpg" width="750">
+ <img src="Screenshots/1.jpg" width="950">
+ <img src="Screenshots/2.jpg" width="950">
 </div>
  
  **Instructions**
