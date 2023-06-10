@@ -17,7 +17,14 @@ This website is built using the JavaScript programming language and is hosted on
  
  **Instructions**
  
- This website doesn't consider the login of new users. So to login you may use below.
+To access the website, you can use the following login credentials: 
+* username: js, pin: 1111
+* username: jd, pin: 2222
+* username: stw, pin: 3333
+* username: ss, pin: 4444
+
+Please note that the website does not provide the option for new users to create an account or register.
+Also the loan amount must not exceed 10% of the maximum deposit value.
  
 **Languages**
 
