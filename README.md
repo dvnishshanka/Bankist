@@ -13,8 +13,11 @@ This website is built using the JavaScript programming language and is hosted on
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
  <img src="screenshots/1.jpg" width="750">
  <img src="screenshots/2.jpg" width="750">
- <img src="screenshots/3.jpg" width="750">
 </div>
+ 
+ **Instructions**
+ 
+ This website doesn't consider the login of new users. So to login you may use below.
  
 **Languages**
 
@@ -22,4 +25,4 @@ This website is built using the JavaScript programming language and is hosted on
 
 **URL**
 
-https://pig-game-for-kids.pages.dev
+https://bankist.pages.dev
